@@ -46,9 +46,9 @@ Competitor API expects for the API key to be included in all API requests to the
 You must replace <code>YOUR_API_KEY</code> with your personal API key.
 </aside>
 
-# Kittens
+# Competitors
 
-## Get All Kittens
+## Get Competitors
 
 ```shell
 curl https://development.api.partneroid.com/v1/competitors?url=YOUR_SEARCH_URL -h x-metapair-token=YOUR_API_KEY
